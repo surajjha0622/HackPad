@@ -1,2 +1,2 @@
 # HACKPAD
-this is a custom made Hackpad
+This is a custom Hackpad
