@@ -25,7 +25,6 @@ The project combines mechanical switches, a rotary encoder, and a small OLED dis
 
 ![PCB](assets/PCB1.png)
 
-The PCB was designed entirely in **KiCad**, with a focus on keeping the layout compact while making routing clean and easy to manufacture.
 
 ---
 
@@ -33,7 +32,6 @@ The PCB was designed entirely in **KiCad**, with a focus on keeping the layout c
 
 ![SCHEMATICS](assets/SCH1.png)
 
-The schematic includes the XIAO RP2040, key matrix, rotary encoder, OLED display, USB connectivity, and all supporting components required for the macropad.
 
 ---
 
@@ -41,13 +39,12 @@ The schematic includes the XIAO RP2040, key matrix, rotary encoder, OLED display
 
 ![3D PCB](assets/3DPCB1.png)
 
-Before manufacturing, the board was verified using KiCad's 3D viewer to check component placement and overall fit.
 
 ---
 
 ## Enclosure Design
 
-| Front | Rear |
+| Front | Edge |
 |:------:|:----:|
 | ![](assets/3DCase1.png) | ![](assets/3DCase2.png) |
 
@@ -55,7 +52,6 @@ Before manufacturing, the board was verified using KiCad's 3D viewer to check co
 <img src="assets/3DCase3.png" width="70%">
 </p>
 
-The enclosure was designed to be simple, compact, and easy to 3D print while providing access to the USB-C port and keeping the overall footprint small.
 
 ---
 
